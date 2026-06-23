@@ -26,11 +26,11 @@ My research aims to reveal fundamental relations between biotic interactions and
 ## Teaching
 
 -	Lecturer in "Theoretical Ecology: From Chaos to Coexistence"
-  - M.Sc. course at University of Hohenheim
-  - focus on equation-based modelling and programming in Python
+  -	M.Sc. course at University of Hohenheim
+  -	focus on equation-based modelling and programming in Python
 -	Assistant Lecturer in "Computational Ecology: Modelling Systems across Scales”
-  - B.Sc. course at University of Hohenheim
-  - focus on individual-based modelling and programming in NetLogo
+  -	B.Sc. course at University of Hohenheim
+  -	focus on individual-based modelling and programming in NetLogo
 - Tutor for “Introduction to Mathematical Logic” and “Linear Algebra”
   - B.Sc. courses at University of Bonn
 
