@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in theoretical ecology and evolution. I am based at the University of Hohenheim, Stuttgart, Germany, in the <a href="{{ https://eco-evolutionary-modelling.uni-hohenheim.de/en/english }}">{{ Department of Eco-evolutionary modelling }}</a>.
+I am a Ph.D. student in theoretical ecology and evolution. I am based at the University of Hohenheim, Stuttgart, Germany, in the <a href="https://eco-evolutionary-modelling.uni-hohenheim.de/en/english">Department of Eco-evolutionary modelling</a>.
 
 ## Research Interests
 
