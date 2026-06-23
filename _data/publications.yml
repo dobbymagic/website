@@ -6,3 +6,31 @@ main:
     doi: https://doi.org/10.64898/2026.03.16.712075
 #    image: 
     notes: Preprint
+
+  - title: Fitness landscapes of biotic interactions shape the ecological and evolutionary dynamics of biodiversity
+    authors: Frank M. Schurr, <strong>Felix Jäger</strong>, Simone Capellari-Rabeling, Ingo Grass, Jörn Pagel, Malina Palmer, Georg Petschenka, Mialy Razanajatovo, Philipp M. Schlüter, Andreas H. Schweiger, Christine S. Sheppard, Anke Steppuhn, Korinna T. Allhoff
+    journal: EcoEvoRxiv, 2025.
+    doi: https://doi.org/10.32942/X2BQ0Z
+#    image: 
+    notes: Preprint
+
+  - title: Farmer decision-making on agri-environmental schemes: An agent-based modelling approach to evaluate different policy designs in Saxony, Germany
+    authors: Meike Will, <strong>Felix Jäger</strong>, Birgit Müller
+    journal: Agricultural Systems, 2025.
+    doi:  https://doi.org/10.1016/j.agsy.2025.104439
+#    image: 
+#    notes: Preprint
+
+  - title: From friend to foe and back - coevolutionary transitions in the mutualism–antagonism continuum
+    authors: <strong>Felix Jäger</strong>, Frank M. Schurr, Korinna T. Allhoff
+    journal: Proceedings of the Royal Society B: Biological Sciences, 2025.
+    doi:  https://doi.org/10.1098/rspb.2024.2326
+#    image: 
+#    notes: Preprint
+
+  - title: Using Bayesian Belief Networks to Investigate Farmer Behavior and Policy Interventions for Improved Nitrogen Management
+    authors: <strong>Felix Jäger</strong>, Jessica Rudnick, Mark Lubell, Martin Kraus, Birgit Müller
+    journal: Environmental Management, 2022.
+    doi:  https://doi.org/10.1007/s00267-022-01635-6
+#    image: 
+#    notes: Preprint
