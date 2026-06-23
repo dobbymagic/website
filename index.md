@@ -13,10 +13,10 @@ My research aims to reveal fundamental relations between biotic interactions and
 {% include_relative _includes/publications.md %}
 
 ## Short CV
-- 11/2023 – present:	PhD in Theoretical Ecology
+- 11/2023 – present:	PhD in theoretical ecology and evolution
   - University of Hohenheim, Germany, supervised by Dr Korinna T. Allhoff
   - Eco-evolutionary modelling of tripartite ecological interaction networks
-- 10/2019 - 10/2023 (cumulative 30 months):	Research Assistant in Socio-ecological Modelling
+- 10/2019 - 10/2023 (cumulative 30 months):	Research Assistant in socio-ecological modelling
   - Helmholtz Centre for Environmental Research (UFZ), Leipzig, Germany, Department of Ecological Modelling
 - 10/2019 – 08/2022	Master of Science in Mathematics
   - University of Bonn, Germany, master´s thesis in mathematical logic
